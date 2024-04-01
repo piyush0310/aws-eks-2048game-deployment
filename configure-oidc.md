@@ -5,5 +5,5 @@
 If not, run the below command
 
 ```
-eksctl utils associate-iam-oidc-provider --cluster $cluster_name --approve
+eksctl utils associate-iam-oidc-provider --cluster $cluster_name --region us-east-1 --approve
 ```
