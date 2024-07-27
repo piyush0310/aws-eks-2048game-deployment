@@ -1,4 +1,4 @@
-# How to setup alb add on
+# How to setup alb(aws_load_balancer) add on
 
 Download IAM policy
 
